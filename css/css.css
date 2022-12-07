@@ -1,0 +1,32 @@
+.navbar,
+.first-section,
+.third-section {
+    background-color: rgb(94, 114, 228);
+}
+
+.third-section .btn-light:hover,
+.fourth-section .btn:hover {
+    background-color: transparent;
+}
+
+
+
+.fourth-section,
+.sixth-section,
+footer {
+    background-color: var(--bs-gray-100);
+}
+
+.fifth-section .row div {
+    transition: .5s;
+}
+
+.fifth-section .row div:hover {
+    box-shadow: 0PX 30px 30px;
+}
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
